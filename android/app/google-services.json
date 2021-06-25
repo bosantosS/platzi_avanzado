@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859229372584",
+    "project_id": "flutter-avanzado-8c35b",
+    "storage_bucket": "flutter-avanzado-8c35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859229372584:android:23d4bfbcf77b2c7a5a429d",
+        "android_client_info": {
+          "package_name": "com.example.platzi_avanzado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859229372584-6p8eifh754uand3q2dcqefu6khkrc7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY3QN9VsZpiJk_F9rh6P5CrzDARhWvOwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859229372584-6p8eifh754uand3q2dcqefu6khkrc7bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
